@@ -9,7 +9,9 @@ Working towards setting up your **blockchain** to connect with a front end appli
 - [Visual Studio Code](https://code.visualstudio.com/download) - is a source code **editor** developed by Microsoft
 
  1. Install Ganache and Run the application for one click ethereum blockchain deployment on localhost.
+ 
  ![Ganache Application](https://i.imgur.com/7rvG8hc.png)
+ 
  You will find the blockchain has been deployed to ``http://127.0.0.1:7545``. The ganache will also create Ethereum wallet addresses for you, all addresses are loaded with 100.00 Ethers and Mnemonic passphrase.
 
 ## Project Setup
